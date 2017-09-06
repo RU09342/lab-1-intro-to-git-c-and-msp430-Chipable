@@ -14,6 +14,12 @@
  * % Modulus (num1 % num2)
 */
 
+/*
+Robert Page
+Lab 1 Assignment 1
+Calculator Functions
+*/
+
 #ifndef MATH_H_
 #define MATH_H_
 
